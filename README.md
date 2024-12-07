@@ -67,24 +67,24 @@ YOLOv8 Final Results (after 100 epochs):
 ## Experimental Results
 
 ### YOLOv5 Experiments
-![YOLOv5 Results](YoloV5-exp/results.png)
-![YOLOv5 Confusion Matrix](YoloV5-exp/confusion_matrix.png)
-![YOLOv5 F1 Curve](YoloV5-exp/F1_curve.png)
+<img src="YoloV5-exp/results.png" width="800">
+<img src="YoloV5-exp/confusion_matrix.png" width="600">
+<img src="YoloV5-exp/F1_curve.png" width="600">
 
 ### YOLOv8 Experiments
-![YOLOv8 Results](YoloV8-exp/results.png)
-![YOLOv8 Confusion Matrix](YoloV8-exp/confusion_matrix.png)
-![YOLOv8 F1 Curve](YoloV8-exp/F1_curve.png)
+<img src="YoloV8-exp/results.png" width="800">
+<img src="YoloV8-exp/confusion_matrix.png" width="600">
+<img src="YoloV8-exp/F1_curve.png" width="600">
 
 ### Prediction Examples
 #### YOLOv5 Predictions
-![YOLOv5 Prediction 1](YoloV5-exp/val_batch0_pred.jpg)
-
+<img src="YoloV5-exp/val_batch0_pred.jpg" width="600">
 
 #### YOLOv8 Predictions
-![YOLOv8 Prediction 1](YoloV8-exp/val_batch0_pred.jpg)
-![YOLOv8 Prediction 2](YoloV8-exp/val_batch1_pred.jpg)
-![YOLOv8 Prediction 3](YoloV8-exp/val_batch2_pred.jpg)
+<img src="YoloV8-exp/val_batch0_pred.jpg" width="600">
+<img src="YoloV8-exp/val_batch1_pred.jpg" width="600">
+<img src="YoloV8-exp/val_batch2_pred.jpg" width="600">
+
 
 ## Usage Instructions 
 
