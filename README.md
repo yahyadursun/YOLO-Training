@@ -64,6 +64,18 @@ YOLOv8 Final Results (after 100 epochs):
 - mAP50: 0.942
 - mAP50-95: 0.685
 
+## Experimental Results
+
+### YOLOv5 Experiments
+![YOLOv5 Results](YoloV5-exp/results.png)
+![YOLOv5 Confusion Matrix](YoloV5-exp/confusion_matrix.png)
+![YOLOv5 F1 Curve](YoloV5-exp/F1_curve.png)
+
+### YOLOv8 Experiments
+![YOLOv8 Results](YoloV8-exp/results.png)
+![YOLOv8 Confusion Matrix](YoloV8-exp/confusion_matrix.png)
+![YOLOv8 F1 Curve](YoloV8-exp/F1_curve.png)
+
 ## Usage Instructions
 1. Open the notebook in Google Colab
 2. Mount your Google Drive
