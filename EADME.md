@@ -5,13 +5,12 @@
 
 ### Prediction Examples
 #### YOLOv5 Predictions
-![YOLOv5 Prediction 1](YoloV5-exp/pred1.jpg)
-![YOLOv5 Prediction 2](YoloV5-exp/pred2.jpg)
-![YOLOv5 Prediction 3](YoloV5-exp/pred3.jpg)
+![YOLOv5 Prediction 1](YoloV5-exp/val_batch0_pred.jpg)
+
 
 #### YOLOv8 Predictions
-![YOLOv8 Prediction 1](YoloV8-exp/pred1.jpg)
-![YOLOv8 Prediction 2](YoloV8-exp/pred2.jpg)
-![YOLOv8 Prediction 3](YoloV8-exp/pred3.jpg)
+![YOLOv8 Prediction 1](YoloV8-exp/val_batch0_pred.jpg)
+![YOLOv8 Prediction 2](YoloV8-exp/val_batch1_pred.jpg)
+![YOLOv8 Prediction 3](YoloV8-exp/val_batch2_pred.jpg)
 
 ## Usage Instructions 
