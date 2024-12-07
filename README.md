@@ -114,4 +114,3 @@ YOLOv8 Final Results (after 100 epochs):
 ## License
 This project is licensed under the MIT License.
 
-## Contact
